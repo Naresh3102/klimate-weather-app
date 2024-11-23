@@ -100,9 +100,6 @@ const HourlyTemperature = ({ data }: HourlyTemperatureProps) => {
           </ResponsiveContainer>
         </div>
       </CardContent>
-      <CardFooter>
-        <p>Card Footer</p>
-      </CardFooter>
     </Card>
   );
 };
