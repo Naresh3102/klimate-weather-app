@@ -1,5 +1,4 @@
 import { useFavourite } from "@/hooks/use-favourite";
-import React from "react";
 import { ScrollArea, ScrollBar } from "./ui/scroll-area";
 import { useNavigate } from "react-router-dom";
 import { useWeatherQuery } from "@/hooks/use-weather";
